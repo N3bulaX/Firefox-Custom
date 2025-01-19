@@ -51,16 +51,12 @@ To **disable** a preference:
 Project structure
 
 ```plaintext
-[Profile Folder]
-└── chrome
-    ├── chrome
-    ├── src
-    │   ├── user-chrome
-    │   ├── user-content
-    │   ├── user-chrome.scss
-    │   └── user-content.scss
-    ├── package-lock.json
-    ├── package.json
-    ├── userChrome.css
-    └── userContent.css
+Firefox-Custom/
+├── policies/
+│   └── policies.json
+├── preferences/
+│   └── user.js
+└── chrome/
+    └── userChrome.css
+
 ```
