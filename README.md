@@ -47,16 +47,3 @@ To **disable** a preference:
 1. **Search** for it by name and **delete** the preference or toggle its state to `false`.
 
 5. Save the file and restart Firefox to apply changes.
-
-Project structure
-
-```plaintext
-Firefox-Custom/
-├── policies/
-│   └── policies.json
-├── preferences/
-│   └── user.js
-└── chrome/
-    └── userChrome.css
-
-```
