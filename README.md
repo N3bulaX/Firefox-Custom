@@ -9,7 +9,9 @@ A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work wit
   A Firefox user CSS theme that looks similar to Chrome.
 </h2>
 
-![preview](docs/assets/preview.png)
+![Uploading imagen.png…](https://github.com/user-attachments/assets/18d97e08-f3dc-4e88-8e96-7316f6106257)
+
+
 
 ## 🚀 Getting Started
 
