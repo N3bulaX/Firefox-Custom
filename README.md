@@ -1,2 +1,2 @@
 # Firefox-Custom-
-Custom’s Startup page for Firefox or libre wolf 
+A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS 
